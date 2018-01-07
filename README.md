@@ -2,6 +2,6 @@
 
 ### To Run: 
 * Clone this repo
-* Run `ruby server.rb`
+* Run `ruby server.rb` in the termninal in the correct directory
 * In a Browser, naviate to `localhost:3000`. This step is you being the 'client' and requesting a resource over the WWW! 
 * See the response from our server! 
